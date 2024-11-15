@@ -1,3 +1,6 @@
+![alt text](https://github.com/shtbt/Telegram-Crawler-and-Query-Webservice/blob/main/icon_telegram.png?raw=true)
+
+
 # Telegram Crawler & Web Service
 
 This project is a Python-based hobby project for real-time data crawling from Telegram, including messages and profile pictures, with a RESTful API for querying the gathered data. It utilizes [Telethon](https://github.com/LonamiWebs/Telethon), database management using SQLite, and building a RESTful API with [Flask](https://flask.palletsprojects.com/). 
